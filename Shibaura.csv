@@ -1,0 +1,15 @@
+RobotID,Speed,ObstacleDistance,movingObstacle,Stop
+1,<5,5-10,No,Yes
+2,<5,<5,No,Yes
+3,<5,<5,Yes,Yes
+4,<5,5-10,No,Yes
+5,8<,5-10,Yes,No
+6,5-8,>10,No,No
+7,8<,>10,No,No
+8,5-8,<5,No,No
+9,5-8,>10,Yes,No
+10,<5,5-10,No,Yes
+11,8<,5-10,No,No
+12,5-8,5-10,No,Yes
+13,<5,>10,No,Yes
+14,5-8,5-10,Yes,Yes
